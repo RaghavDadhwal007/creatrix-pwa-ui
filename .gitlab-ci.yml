@@ -1,0 +1,10 @@
+include:
+  - project: 'destm-technologies-pvt-ltd/CICD'
+    ref: 'master'
+    file: 'common-stages.yml'
+  - project: 'destm-technologies-pvt-ltd/CICD'
+    ref: 'master'
+    file: 'ci/node/next/next-ci.yml'
+  - project: 'destm-technologies-pvt-ltd/CICD'
+    ref: 'master'
+    file: 'cd/node/next/next-cd.yml'

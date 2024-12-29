@@ -1,0 +1,38 @@
+{
+    "Plans": [
+        {
+            "Individual": {
+                "heading": "Individual",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod. ",
+                "price": "699",
+                "subtitle": "monthly and annual plans available",
+                "checklist": ["Set Your Rates", "Exclusive deals", "Advanced Statistics"],
+                "btnTitle": "Choose Individual"
+            },
+            "key": "individual"
+        },
+        {
+            "Starter": {
+                "heading": "Starter",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod. consectetur adipiscing",
+                "price": "1399",
+                "subtitle":"monthly and annual plans available",
+                "caption": "Unlimited Downloads",
+                "btnTitle": "Choose Organization"
+            },
+            "key": "starter"
+        },
+        {
+            "Pro": {
+                "heading": "Pro",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.",
+                "helperText": "Not seeing what you need?",
+                "linkText": "Contact us",
+                "subtitle": "Custom Pricing",
+                "subdec": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod. consectetur adipiscing",
+                "btnTitle": "Contact us"
+            },
+            "key": "pro" 
+        }
+    ]
+}

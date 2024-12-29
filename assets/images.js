@@ -1,0 +1,55 @@
+import config from 'config';
+
+const images = {
+    userAvatar: `${ config.IMAGE_BASE_URL  }/avtar.png`,
+    creatigoLogo: `${ config.IMAGE_BASE_URL  }/creatigo_logo.png`,
+    authPageWomenBg: `${ config.IMAGE_BASE_URL  }/login.png`,
+    authPageWomenBgTablet: `${ config.IMAGE_BASE_URL  }/auth_page_women_bg_tablet.png`,
+    authAppBackgroundImage: `${ config.IMAGE_BASE_URL  }/bg_login.png`,
+    cardImage: `${ config.IMAGE_BASE_URL }/cardImage.jpg`,
+    backgroundMaskBanner: `${ config.IMAGE_BASE_URL }/mask_groupfull.png`,
+    backgroundHeroBanner: `${ config.IMAGE_BASE_URL }/backgroundkl.png`,
+    wavesMusic: `${ config.IMAGE_BASE_URL }/waves.png`,
+    favourite: `${ config.IMAGE_BASE_URL }/favourite.png`,
+    homePageAudioPlaceHolders: [
+        `${ config.IMAGE_BASE_URL }/audio1.png`,
+        `${ config.IMAGE_BASE_URL }/audio2.png`,
+        `${ config.IMAGE_BASE_URL }/audio3.png`,
+        `${ config.IMAGE_BASE_URL }/audio4.png`,
+        `${ config.IMAGE_BASE_URL }/audio5.png`,
+        `${ config.IMAGE_BASE_URL }/audio6.png`,
+        // `${ config.IMAGE_BASE_URL }/audio7.png`,
+        // `${ config.IMAGE_BASE_URL }/audio8.png`,
+    ],
+    homePageFeaturePlaceholders: [
+        `${ config.IMAGE_BASE_URL }/feature1.png`,
+        `${ config.IMAGE_BASE_URL }/feature2.png`,
+        `${ config.IMAGE_BASE_URL }/feature3.png`,
+    ],
+    discImage: `${ config.IMAGE_BASE_URL }/creatigo_disc.png`,
+    musicDetailsPage: `${ config.IMAGE_BASE_URL }/music_details_page.png`,
+    videoDefaultThumbnail: `${ config.IMAGE_BASE_URL }/play.png`,
+    musicDetailsPageArr: [
+        `${ config.IMAGE_BASE_URL }/recomended_footage_one.png`,
+        `${ config.IMAGE_BASE_URL }/recomended_footage_two.png`,
+        `${ config.IMAGE_BASE_URL }/recomended_footage_three.png`,
+        `${ config.IMAGE_BASE_URL }/recomended_footage_four.png`,
+        `${ config.IMAGE_BASE_URL }/recomended_footage_one.png`,
+        `${ config.IMAGE_BASE_URL }/recomended_footage_two.png`,
+        `${ config.IMAGE_BASE_URL }/recomended_footage_three.png`,
+        `${ config.IMAGE_BASE_URL }/recomended_footage_four.png`,
+    ],
+    footageDetailsArr: [
+        `${ config.IMAGE_BASE_URL }/recomended_footage_three.png`,
+        `${ config.IMAGE_BASE_URL }/recomended_footage_one.png`,
+        `${ config.IMAGE_BASE_URL }/recomended_footage_two.png`,
+        `${ config.IMAGE_BASE_URL }/recomended_footage_four.png`,
+        `${ config.IMAGE_BASE_URL }/recomended_footage_two.png`,
+        `${ config.IMAGE_BASE_URL }/recomended_footage_one.png`,
+        `${ config.IMAGE_BASE_URL }/recomended_footage_four.png`,
+        `${ config.IMAGE_BASE_URL }/recomended_footage_three.png`,
+    ],
+    noPlanImage: `${ config.IMAGE_BASE_URL }/noPlanImage.png`,
+};
+
+export default images;

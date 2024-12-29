@@ -1,0 +1,11 @@
+version: '3'
+services:
+  web:
+    stdin_open: false
+    environment:
+      - CREATIGO_UI_ENV=${CREATIGO_UI_ENV}
+      - REACT_APP_CREATIGO_API_BASE_URL=${REACT_APP_CREATIGO_API_BASE_URL}
+      - REACT_APP_CREATIGO_IMAGE_BASE_URL=${REACT_APP_CREATIGO_IMAGE_BASE_URL}
+    image: "${CI_REGISTRY_IMAGE_URL}:${APP_VERSION}"
+    ports:
+      - '${APP_RUN_PORT}:3000'

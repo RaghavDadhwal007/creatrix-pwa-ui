@@ -1,0 +1,43 @@
+branches: ['master']
+ci: true
+debug: true
+dryRun: false
+tagFormat: '${version}'
+preset: 'conventionalcommits'
+
+gitlabUrl: 'https://gitlab.destm.com/' # your gitlab url
+slackWebhook: 'https://hooks.slack.com/services/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' # if you need slack notifies
+verifyConditions:
+  - '@semantic-release/changelog'
+  - '@semantic-release/git'
+  - '@semantic-release/gitlab'
+
+analyzeCommits:
+  - path: '@semantic-release/commit-analyzer'
+
+generateNotes:
+  - path: '@semantic-release/release-notes-generator'
+    writerOpts:
+      groupBy: 'type'
+      commitGroupsSort: 'title'
+      commitsSort: 'header'
+    linkCompare: true
+    linkReferences: true
+
+prepare:
+  - path: '@semantic-release/changelog'
+  - path: '@semantic-release/git'
+    message: 'RELEASE: ${nextRelease.version}'
+    assets: ['CHANGELOG.md']
+
+publish:
+  - path: '@semantic-release/gitlab'
+
+success:
+  - path: 'semantic-release-slack-bot'
+    notifyOnSuccess: true
+    markdownReleaseNotes: false
+
+fail:
+  - path: 'semantic-release-slack-bot'
+    notifyOnFail: true

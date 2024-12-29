@@ -1,0 +1,498 @@
+{
+   "data": {
+     "findFooter": {
+       "content": {
+         "entries": [
+           {
+             "_version": 13,
+             "locale": "en-us",
+             "uid": "blt446484efce95292d",
+             "ACL": {},
+             "_in_progress": false,
+             "created_at": "2022-08-16T15:00:47.643Z",
+             "created_by": "bltfdd072f4ca52af25",
+             "footer_top": [
+              {
+                "logo_block": {
+                  "logo": {
+                    "_version": 2,
+                    "is_dir": false,
+                    "uid": "bltcd01758dfdbd3d20",
+                    "ACL": {},
+                    "content_type": "image/svg+xml",
+                    "created_at": "2022-08-17T04:43:41.314Z",
+                    "created_by": "blt7dbfce60c8296e1c",
+                    "description": "Logo with pink dot",
+                    "file_size": "19744",
+                    "filename": "crti_1.svg",
+                    "parent_uid": "blt058c009d2f922377",
+                    "tags": [
+                      "logo",
+                      "pink dot"
+                    ],
+                    "title": "crti_pink_dot.svg",
+                    "updated_at": "2022-08-17T06:59:29.847Z",
+                    "updated_by": "bltfdd072f4ca52af25",
+                    "publish_details": {
+                      "environment": "bltaa2a91ff60c0f0e2",
+                      "locale": "en-us",
+                      "time": "2022-08-17T06:59:37.061Z",
+                      "user": "bltfdd072f4ca52af25"
+                    },
+                    "url": "https://images.contentstack.io/v3/assets/blt1e8ebfffae03d059/bltcd01758dfdbd3d20/62fc71fdc43eaf6744339469/crti_1.svg"
+                  },
+                  "_metadata": {
+                    "uid": "cs8bd32e497bf7f373"
+                  },
+                  "markdown": {
+                    "type": "doc",
+                    "attrs": {},
+                    "uid": "f77d2e7353ec458189931168351d6540",
+                    "children": [
+                      {
+                        "type": "p",
+                        "attrs": {},
+                        "uid": "1aedc82c2be6479aad33e91fb60a01c4",
+                        "children": [
+                          {
+                            "text": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using "
+                          }
+                        ]
+                      }
+                    ],
+                    "_version": 13
+                  }
+                }
+              },
+              {
+                "menu": {
+                  "reference": [
+                    {
+                      "_version": 2,
+                      "locale": "en-us",
+                      "uid": "blt18185af14e44366f",
+                      "ACL": {},
+                      "_in_progress": false,
+                      "created_at": "2022-08-18T12:55:19.784Z",
+                      "created_by": "bltfdd072f4ca52af25",
+                      "menu_blocks": [
+                        {
+                          "menu_groups": {
+                            "main_menu_presentation": "link",
+                            "heading_link": {
+                              "title": "Company",
+                              "href": "#"
+                            },
+                            "_metadata": {
+                              "uid": "csc79190c3766a9b39"
+                            },
+                            "tracking_event_label": "",
+                            "tracking_event_category": "",
+                            "tracking_event_action": "",
+                            "menu_item": [
+                              {
+                                "sub_menu_link": {
+                                  "title": "About Us",
+                                  "href": "/about-us"
+                                },
+                                "_metadata": {
+                                  "uid": "cs12cf24ed3cea549d"
+                                },
+                                "tracking_event_label": "",
+                                "tracking_event_category": "",
+                                "tracking_event_action": ""
+                              },
+                              {
+                                "sub_menu_link": {
+                                  "title": "Pricing",
+                                  "href": "/pricing"
+                                },
+                                "_metadata": {
+                                  "uid": "cse42a90e4ff15494a"
+                                },
+                                "tracking_event_label": "",
+                                "tracking_event_category": "",
+                                "tracking_event_action": ""
+                              },
+                              {
+                                "sub_menu_link": {
+                                  "title": "License",
+                                  "href": "/license"
+                                },
+                                "_metadata": {
+                                  "uid": "csd58f3333c820039e"
+                                },
+                                "tracking_event_label": "",
+                                "tracking_event_category": "",
+                                "tracking_event_action": ""
+                              },
+                              {
+                                "sub_menu_link": {
+                                  "title": "Terms",
+                                  "href": "/terms"
+                                },
+                                "_metadata": {
+                                  "uid": "csd4331ef26aaf8740"
+                                },
+                                "tracking_event_label": "",
+                                "tracking_event_category": "",
+                                "tracking_event_action": ""
+                              },
+                              {
+                                "sub_menu_link": {
+                                  "title": "Contact",
+                                  "href": "/contact"
+                                },
+                                "_metadata": {
+                                  "uid": "cs5259f3973cb11917"
+                                },
+                                "tracking_event_label": "",
+                                "tracking_event_category": "",
+                                "tracking_event_action": ""
+                              },
+                              {
+                                "sub_menu_link": {
+                                  "title": "Privacy",
+                                  "href": "/privacy"
+                                },
+                                "_metadata": {
+                                  "uid": "csc70cdf901aa379df"
+                                },
+                                "tracking_event_label": "",
+                                "tracking_event_category": "",
+                                "tracking_event_action": ""
+                              }
+                            ],
+                            "style": []
+                          }
+                        },
+                        {
+                          "menu_groups": {
+                            "main_menu_presentation": "link",
+                            "heading_link": {
+                              "title": "Footage",
+                              "href": "#"
+                            },
+                            "_metadata": {
+                              "uid": "csad24e9d62bf08845"
+                            },
+                            "tracking_event_label": "",
+                            "tracking_event_category": "",
+                            "tracking_event_action": "",
+                            "menu_item": [
+                              {
+                                "sub_menu_link": {
+                                  "title": "Nature",
+                                  "href": "/nature"
+                                },
+                                "_metadata": {
+                                  "uid": "cse041de0e7b08cc71"
+                                },
+                                "tracking_event_label": "",
+                                "tracking_event_category": "",
+                                "tracking_event_action": ""
+                              },
+                              {
+                                "sub_menu_link": {
+                                  "title": "Lifestyle",
+                                  "href": "/lifestyle"
+                                },
+                                "_metadata": {
+                                  "uid": "cs5133d46d9f423772"
+                                },
+                                "tracking_event_label": "",
+                                "tracking_event_category": "",
+                                "tracking_event_action": ""
+                              },
+                              {
+                                "sub_menu_link": {
+                                  "title": "Buisness",
+                                  "href": "/buisness"
+                                },
+                                "_metadata": {
+                                  "uid": "cs68b5c0a3a6e11cb6"
+                                },
+                                "tracking_event_label": "",
+                                "tracking_event_category": "",
+                                "tracking_event_action": ""
+                              },
+                              {
+                                "sub_menu_link": {
+                                  "title": "Animal",
+                                  "href": "/animal"
+                                },
+                                "_metadata": {
+                                  "uid": "cs4234025ab93a9293"
+                                },
+                                "tracking_event_label": "",
+                                "tracking_event_category": "",
+                                "tracking_event_action": ""
+                              },
+                              {
+                                "sub_menu_link": {
+                                  "title": "Food",
+                                  "href": "/food"
+                                },
+                                "_metadata": {
+                                  "uid": "csdfda86e1133aa598"
+                                },
+                                "tracking_event_label": "",
+                                "tracking_event_category": "",
+                                "tracking_event_action": ""
+                              },
+                              {
+                                "sub_menu_link": {
+                                  "title": "Zoom Background",
+                                  "href": ""
+                                },
+                                "_metadata": {
+                                  "uid": "cs42506572ac5e63b0"
+                                },
+                                "tracking_event_label": "",
+                                "tracking_event_category": "",
+                                "tracking_event_action": ""
+                              },
+                              {
+                                "sub_menu_link": {
+                                  "title": "Verticles",
+                                  "href": "/verticles"
+                                },
+                                "_metadata": {
+                                  "uid": "cs556577ba19d4b020"
+                                },
+                                "tracking_event_label": "",
+                                "tracking_event_category": "",
+                                "tracking_event_action": ""
+                              },
+                              {
+                                "sub_menu_link": {
+                                  "title": "Backgrounds",
+                                  "href": "/backgrounds"
+                                },
+                                "_metadata": {
+                                  "uid": "cs09f4aa8c01d9d1bf"
+                                },
+                                "tracking_event_label": "",
+                                "tracking_event_category": "",
+                                "tracking_event_action": ""
+                              }
+                            ],
+                            "style": []
+                          }
+                        },
+                        {
+                          "menu_groups": {
+                            "main_menu_presentation": "link",
+                            "heading_link": {
+                              "title": "Quick Links",
+                              "href": "#"
+                            },
+                            "_metadata": {
+                              "uid": "cs0dcccd577ee96699"
+                            },
+                            "tracking_event_label": "",
+                            "tracking_event_category": "",
+                            "tracking_event_action": "",
+                            "menu_item": [
+                              {
+                                "sub_menu_link": {
+                                  "title": "Ambient",
+                                  "href": "/ambient"
+                                },
+                                "_metadata": {
+                                  "uid": "cseac5122667ada444"
+                                },
+                                "tracking_event_label": "",
+                                "tracking_event_category": "",
+                                "tracking_event_action": ""
+                              },
+                              {
+                                "sub_menu_link": {
+                                  "title": "Cinematic",
+                                  "href": "/cinematic"
+                                },
+                                "_metadata": {
+                                  "uid": "cs8ccb161b92fbb8a7"
+                                },
+                                "tracking_event_label": "",
+                                "tracking_event_category": "",
+                                "tracking_event_action": ""
+                              },
+                              {
+                                "sub_menu_link": {
+                                  "title": "Corporate",
+                                  "href": "/corporate"
+                                },
+                                "_metadata": {
+                                  "uid": "cs680c1ee8cfd17a59"
+                                },
+                                "tracking_event_label": "",
+                                "tracking_event_category": "",
+                                "tracking_event_action": ""
+                              },
+                              {
+                                "sub_menu_link": {
+                                  "title": "Drum & Bass",
+                                  "href": "/drum"
+                                },
+                                "_metadata": {
+                                  "uid": "cs743eaa1f1cc58d31"
+                                },
+                                "tracking_event_label": "",
+                                "tracking_event_category": "",
+                                "tracking_event_action": ""
+                              },
+                              {
+                                "sub_menu_link": {
+                                  "title": "Experimental",
+                                  "href": "/experimetal"
+                                },
+                                "_metadata": {
+                                  "uid": "csc5bb9a12cc954f66"
+                                },
+                                "tracking_event_label": "",
+                                "tracking_event_category": "",
+                                "tracking_event_action": ""
+                              },
+                              {
+                                "sub_menu_link": {
+                                  "title": "Funk",
+                                  "href": "/funk"
+                                },
+                                "_metadata": {
+                                  "uid": "cs30e963b2cd531efe"
+                                },
+                                "tracking_event_label": "",
+                                "tracking_event_category": "",
+                                "tracking_event_action": ""
+                              },
+                              {
+                                "sub_menu_link": {
+                                  "title": "Hip-Hop",
+                                  "href": "/hip-hop"
+                                },
+                                "_metadata": {
+                                  "uid": "cs5480f2fb47fa7ea2"
+                                },
+                                "tracking_event_label": "",
+                                "tracking_event_category": "",
+                                "tracking_event_action": ""
+                              },
+                              {
+                                "sub_menu_link": {
+                                  "title": "Jazz",
+                                  "href": "/jazz"
+                                },
+                                "_metadata": {
+                                  "uid": "cs521d4a7276cdf904"
+                                },
+                                "tracking_event_label": "",
+                                "tracking_event_category": "",
+                                "tracking_event_action": ""
+                              }
+                            ],
+                            "style": []
+                          }
+                        }
+                      ],
+                      "tags": [],
+                      "title": "Footer Menu Groups",
+                      "updated_at": "2022-08-18T13:01:12.539Z",
+                      "updated_by": "bltfdd072f4ca52af25",
+                      "_content_type_uid": "menu_items",
+                      "publish_details": {
+                        "environment": "bltaa2a91ff60c0f0e2",
+                        "locale": "en-us",
+                        "time": "2022-08-18T14:37:52.081Z",
+                        "user": "blt7dbfce60c8296e1c"
+                      }
+                    }
+                  ],
+                  "_metadata": {
+                    "uid": "cse18e64d91d900c11"
+                  }
+                }
+              },
+              {
+                "subscribe_box": {
+                  "title": "Subscriber",
+                  "_metadata": {
+                    "uid": "cs3b918830a3e857cf"
+                  },
+                  "button_icon": null,
+                  "copy": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur",
+                  "input_placeholder": "Email Address"
+                }
+              },
+              {
+                "social_icon": {
+                  "title": "Social media",
+                  "_metadata": {
+                    "uid": "cs568262819de7822c"
+                  },
+                  "social_icon": [
+                    {
+                      "_version": 1,
+                      "is_dir": false,
+                      "uid": "blt1fa0a87a45502fd9",
+                      "ACL": {},
+                      "content_type": "image/png",
+                      "created_at": "2022-08-17T07:08:04.978Z",
+                      "created_by": "bltfdd072f4ca52af25",
+                      "file_size": "857",
+                      "filename": "608767_facebook_profile_social_icon.png",
+                      "parent_uid": "blt058c009d2f922377",
+                      "tags": [],
+                      "title": "608767_facebook_profile_social_icon.png",
+                      "updated_at": "2022-08-17T07:08:04.978Z",
+                      "updated_by": "bltfdd072f4ca52af25",
+                      "publish_details": {
+                        "environment": "bltaa2a91ff60c0f0e2",
+                        "locale": "en-us",
+                        "time": "2022-08-17T07:10:18.975Z",
+                        "user": "bltfdd072f4ca52af25"
+                      },
+                      "url": "https://images.contentstack.io/v3/assets/blt1e8ebfffae03d059/blt1fa0a87a45502fd9/62fc93d4c95e23543283032e/608767_facebook_profile_social_icon.png"
+                    }
+                  ]
+                }
+              }
+            ],
+            
+             "footer_bottom": [
+              {
+                "copy": {
+                  "copy": "Copyright © All Right Reserved.",
+                  "_metadata": {
+                    "uid": "cs7ccd1c2b052308ad"
+                  }
+                }
+              }
+            ],
+             "tags": [
+               "footer"
+             ],
+             "title": "Desktop Footer",
+             "updated_at": "2022-08-25T05:37:15.642Z",
+             "updated_by": "blt7dbfce60c8296e1c",
+             "user_type": {
+               "user_type": [
+                 "G",
+                 "S"
+               ]
+             },
+             "viewport": {
+               "viewport": "desktop"
+             },
+             "publish_details": {
+               "environment": "bltaa2a91ff60c0f0e2",
+               "locale": "en-us",
+               "time": "2022-08-25T05:37:38.373Z",
+               "user": "blt7dbfce60c8296e1c"
+             }
+           }
+         ]
+       }
+     }
+   }
+ }

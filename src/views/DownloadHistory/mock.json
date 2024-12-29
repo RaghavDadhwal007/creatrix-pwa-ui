@@ -1,0 +1,83 @@
+{
+    "All": [
+        {
+            "id": 1,
+            "media": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry standard dummy text ever since the 1500s",
+            "date": "18/09/22",
+            "type": "mp3"
+        },
+        {
+            "id": 2,
+            "media": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry standard dummy text ever since the 1500s",
+            "date": "19/07/22",
+            "type": "mp3"
+        },
+        {
+            "id": 3,
+            "media": " Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry standard dummy text ever since the 1500s",
+            "date": "23/08/22",
+            "type": "mp3"
+        },
+        {
+            "id": 4,
+            "media": " Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry standard dummy text ever since the 1500s",
+            "date": "15/08/22",
+            "type": "mp3"
+    
+        }
+    ],
+    "Footage": [
+        {
+            "id": 1,
+            "media": "Footage dummy. Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry standard dummy text ever since the 1500s",
+            "date": "19/07/22",
+            "type": "mp3"
+        },
+        {
+            "id": 2,
+            "media": " Footage dummy.Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry standard dummy text ever since the 1500s",
+            "date": "18/09/22",
+            "type": "mp3"
+        },
+        {
+            "id": 3,
+            "media": "Footage dummy. Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry standard dummy text ever since the 1500s",
+            "date": "24/08/22",
+            "type": "mp3"
+        },
+        {
+            "id": 4,
+            "media": "Footage dummy. Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry standard dummy text ever since the 1500s",
+            "date": "15/08/22",
+            "type": "mp3"
+    
+        }
+    ],
+    "Music": [
+        {
+            "id": 1,
+            "media": "Music dummy. Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry standard dummy text ever since the 1500s",
+            "date": "07/07/22",
+            "type": "mp3"
+        },
+        {
+            "id": 2,
+            "media": "Music dummy. Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry standard dummy text ever since the 1500s",
+            "date": "09/09/22",
+            "type": "mp3"
+        },
+        {
+            "id": 3,
+            "media": " Music dummy. Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry standard dummy text ever since the 1500s",
+            "date": "24/08/22",
+            "type": "mp3"
+        },
+        {
+            "id": 4,
+            "media": "Music dummy. Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry standard dummy text ever since the 1500s",
+            "date": "15/08/22",
+            "type": "mp3"
+    
+        }
+    ]
+}
